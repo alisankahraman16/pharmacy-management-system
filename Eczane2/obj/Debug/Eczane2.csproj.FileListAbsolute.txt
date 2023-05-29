@@ -1,0 +1,17 @@
+C:\Users\aakah\source\repos\Eczane2\Eczane2\bin\Debug\Eczane2.exe.config
+C:\Users\aakah\source\repos\Eczane2\Eczane2\bin\Debug\Eczane2.exe
+C:\Users\aakah\source\repos\Eczane2\Eczane2\bin\Debug\Eczane2.pdb
+C:\Users\aakah\source\repos\Eczane2\Eczane2\obj\Debug\Eczane2.csproj.AssemblyReference.cache
+C:\Users\aakah\source\repos\Eczane2\Eczane2\obj\Debug\Eczane2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aakah\source\repos\Eczane2\Eczane2\obj\Debug\Eczane2.Form1.resources
+C:\Users\aakah\source\repos\Eczane2\Eczane2\obj\Debug\Eczane2.Properties.Resources.resources
+C:\Users\aakah\source\repos\Eczane2\Eczane2\obj\Debug\Eczane2.csproj.GenerateResource.cache
+C:\Users\aakah\source\repos\Eczane2\Eczane2\obj\Debug\Eczane2.csproj.CoreCompileInputs.cache
+C:\Users\aakah\source\repos\Eczane2\Eczane2\obj\Debug\Eczane2.exe
+C:\Users\aakah\source\repos\Eczane2\Eczane2\obj\Debug\Eczane2.pdb
+C:\Users\aakah\source\repos\Eczane2\Eczane2\obj\Debug\Eczane2.Form2.resources
+C:\Users\aakah\source\repos\Eczane2\Eczane2\obj\Debug\Eczane2.Form3.resources
+C:\Users\aakah\source\repos\Eczane2\Eczane2\obj\Debug\Eczane2.Form4.resources
+C:\Users\aakah\source\repos\Eczane2\Eczane2\obj\Debug\Eczane2.Form5.resources
+C:\Users\aakah\source\repos\Eczane2\Eczane2\obj\Debug\Eczane2.Form6.resources
+C:\Users\aakah\source\repos\Eczane2\Eczane2\obj\Debug\Eczane2.Form7.resources
